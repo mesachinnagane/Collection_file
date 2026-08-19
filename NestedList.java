@@ -4,6 +4,7 @@ public class NestedList
 {
    public static void main(String[] args)
    {
+      System.out.println("my name is sachin");
        List<String> Mah = new ArrayList<String>();
        Mah.add("Pune");
        Mah.add("Mumbai");
